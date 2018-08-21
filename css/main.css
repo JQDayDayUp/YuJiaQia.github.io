@@ -1852,7 +1852,7 @@ img:hover {
   width: 4px;
   height: 4px;
   border-radius: 50%;
-  background: #6eaf7c;
+  background: #ff2da6;
 }
 .links-of-blogroll {
   font-size: 13px;
@@ -2802,6 +2802,14 @@ hr {
     float: none;
     padding: 0 10px;
   }
+}
+.sidebar {
+  background: url("http://thyrsi.com/t6/360/1534845740x-1566688485.jpg") no-repeat !important;
+  background-size: cover !important;
+  position: fixed !important;
+  right: 0 !important;
+  top: 0 !important;
+  bottom: 0 !important;
 }
 @media (max-width: 767px) {
   .container .main-inner {
